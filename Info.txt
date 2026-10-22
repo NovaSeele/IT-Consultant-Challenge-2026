@@ -1,0 +1,15 @@
+IT Consultant Challenge đã gửi đề bài Vòng 1 qua email đến tất cả các đội thi. Các đội vui lòng kiểm tra hộp thư để cập nhật đầy đủ nội dung:
++ Case Study (trong slide đính kèm)
++ Các điểm cần tập trung (trong slide đính kèm)
+
+ Một số lưu ý khi làm bài:
++ BTC khuyến khích các đội sử dụng AI để hỗ trợ, nhưng không được dùng AI để tạo toàn bộ slide bài thi. Nội dung cần thể hiện tư duy phân tích và giải pháp của chính đội mình.
++ Bài trình bày nên có độ dài khoảng 10 slide, tập trung vào những nội dung trọng tâm.
+
+
+BTC có cung cấp 1 hệ thống/số liệu giả định nào ko ạ. Ví dụ như đội em chọn Vấn đề thứ 4, cần giải quyết về Fragmented systems, thì hệ thống là tụi em sẽ tự giả định, fake số liệu hay là BTC cung cấp ạ
+
+Như trong slide BTC có gửi là các bạn có thể đưa ra giả định nếu case không cung cấp thông tin nha em, miễn là giả định hợp lý và đội giải thích được những giả định đó
+
+Đây là case study mở, nên nếu dữ liệu/ thông tin nào không được cung cấp bởi case, các bạn có thể giả định, miễn là các giả định này phù hợp context của business challenge, và solutions đưa ra phù hợp, thực tế.
+10 slides maximum tức là bao gồm tất cả mọi thông tin từ mở bài thân bài kết bài phụ lục. Bất kể slides nào ngoài 10 slide chính thức sẽ không được xem xét. Nên các team hãy chắt lọc nội dung khi làm proposal nhen.
